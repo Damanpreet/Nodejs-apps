@@ -1,2 +1,5 @@
 # Nodejs-apps
-Create small applications in NodeJS
+Small applications in NodeJS
+
+Reference - 
+Udemy course: The Complete Node.js Developer Course 
